@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+websockets
+mediapipe
+opencv-python
+tensorflow
+requests
+pyttsx3
+pydantic
+python-multipart
+
+gTTS
